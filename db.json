@@ -1,0 +1,41 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Gosho",
+      "rate": 2100,
+      "role": "RW"
+    },
+    {
+      "id": 2,
+      "name": "Pesho",
+      "rate": 2210,
+      "role": "CM"
+    },
+    {
+      "id": 3,
+      "name": "Mitko",
+      "rate": 1985,
+      "role": "LW"
+    },
+      {
+      "id": 4,
+      "name": "Pitko",
+      "rate": 6456,
+      "role": "WW"
+    },
+      {
+      "id": 5,
+      "name": "Kitko",
+      "rate": 1422,
+      "role": "CC"
+    },
+      {
+      "id": 6,
+      "name": "Batitko",
+      "rate": 1233,
+      "role": "SS"
+    }
+  ]
+
+}
